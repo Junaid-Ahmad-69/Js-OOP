@@ -1,0 +1,1 @@
+'use stri ct';
